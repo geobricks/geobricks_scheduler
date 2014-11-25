@@ -1,0 +1,15 @@
+{
+  "year": 2014,
+  "month": 12,
+  "day": 18,
+  "hour": 12,
+  "minute": 0,
+  "action": {
+    "action_type": "DOWNLOAD_MODIS",
+    "product": "MOD13A2",
+    "year": "2014",
+    "day": "033",
+    "country": "ITA",
+    "target": "/home/kalimaha/Desktop/MODIS"
+  }
+}
